@@ -23,7 +23,11 @@
           margin-bottom: 4rem;
         }
       }
-  
+      
+      &__centered-block {
+        margin: 0 auto;
+        text-align: left;
+      }
       &__text {
         text-align: left;
   
