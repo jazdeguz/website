@@ -15,13 +15,13 @@ export const targetElements = [
       origin: "bottom",
     },
   },
-  {
-    element: ".hero-title",
-    animation: {
-      delay: 500,
-      origin: window.innerWidth > 768 ? "left" : "bottom",
-    },
-  },
+  // {
+  //   element: ".hero-title",
+  //   animation: {
+  //     delay: 500,
+  //     origin: window.innerWidth > 768 ? "left" : "bottom",
+  //   },
+  // },
   {
     element: ".hero-cta",
     animation: {
